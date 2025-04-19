@@ -35,8 +35,7 @@ The second assignment implements a game where:
 The program:
 - Builds the game tree recursively at each move.
 - Makes the optimal move based on the minimax evaluation.
-- Describes the rules, evaluation functions, and design in the report.
-- 
+
 ## Team Members
 - Modiotis Athanasios
 - Bonitsis Pantelis

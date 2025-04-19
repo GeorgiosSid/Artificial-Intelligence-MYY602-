@@ -7,7 +7,7 @@ This repository contains the programming assignments completed for the **Artific
   - Implementation of **Labyrinth Search** using **Uniform Cost Search (UCS)** and **A\*** algorithms.
   - Includes:
     - Source code (`Labyrinth.java`, `Cell.java`, `MinPQ.java`).
-    - Project report (`AI_project_2025.pdf`).
+    - report (`.pdf`).
 - `exercise_2_game/`:
   - Implementation of a **two-player strategic game** using the **Minimax algorithm** (without α-β pruning).
   - Includes:

@@ -14,7 +14,7 @@ This repository contains the programming assignments completed for the **Artific
     - Source code (`Game.java`, `Grid.java`).
 
 ## Exercise 1 – Labyrinth Navigation
-The task was to implement a pathfinding algorithm for a robot navigating a randomly generated NxN labyrinth:
+The task was to implement a pathfinding algorithm for a randomly generated NxN labyrinth:
 - Each cell is either free or blocked with a probability `p`.
 - The robot moves horizontally, vertically, or diagonally to adjacent cells at a cost of 1.
 - A special "teleportation" move is allowed from the bottom-left to top-right cell (or vice-versa) at a cost of 2.
